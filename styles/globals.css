@@ -289,7 +289,8 @@ a {
   border-radius: 50%;
   object-fit: cover;
   position: inline;
-  margin-left: 45%;
+  margin-right: 45%;
+  float: right;
 }
 
 #chatImageTwo {
@@ -309,6 +310,7 @@ a {
   object-fit: cover;
   position: inline;
   margin-right: 95%;
+  float: right;
 }
 
 #commentOne {
